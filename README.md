@@ -1,5 +1,7 @@
 # 4452-Function-Testing
 
-# npm install mocha & sinon
+1. npm install mocha & sinon
 
-# cd to test folder and run 'mocha accountStatusTest.js'
+2. cd to test folder 
+
+3. run 'mocha accountStatusTest.js'
